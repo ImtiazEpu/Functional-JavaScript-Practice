@@ -4,7 +4,7 @@ function sayName(name) {
   return "Hello! " + name;
 }
 
-// A function can be stored in a variabale
+// A function can be stored in a variable
 var hello = sayName;
 console.log(hello("imtiaz"));
 
